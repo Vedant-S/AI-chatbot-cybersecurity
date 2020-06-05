@@ -1,4 +1,4 @@
-# AI Chatbot:
+# AI Cybersecurity Chatbot:
 ____________________________________________________________________________________________________________________________________
 Built an AI contextual chatbot using the `tensorflow` and `tflearn` library. Used concepts of Natural Language Processing (NLP) and Neural Network to build it.
 The intents file is used for training.
