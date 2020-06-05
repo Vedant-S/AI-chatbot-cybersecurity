@@ -23,7 +23,7 @@ One of the best application of integration of AI and Automation would be Chatbot
 ````
 ____________________________________________________________________________________________________________________________________
 ## Procedure to Run:
-To run this application use jupyter notebook. Run each cell of notebook. Proceed with call `response()` method and put your query within it.<br>
+To run this application use jupyter notebook. Run each cell of notebook. Proceed with calling `response()` method and put your query within it.<br>
 for eg :
 - response("What services do you provide?")
 
